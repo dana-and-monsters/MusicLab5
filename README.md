@@ -11,3 +11,4 @@ This repository contains the data jockeying notebook by Cagri Erdem and building
 * MusicLab5_DataAnalysis_ExtractPerformances_20210611.ipynb - script to identify the start of the performances in the motion data.  
 * MusicLab5_DataAnalysis_Animations_20210614.ipynb - script to create animations from the motion data.  
 * MusicLab5_DataAnalysis_Filtering_20210617.ipynb - script to conduct filtering.
+* MusicLab5_DataAnalysis_Geolocation_20210707.ipynb - script to analyze, anonymize, and visualize geolocation.
