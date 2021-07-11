@@ -2,7 +2,7 @@
 The 5th edition of MusicLab was an algorave (algorithmic rave) featuring Renick Bell based in Japan, Khoparzi based in India, and researchers in Norway. Renick Bell and Khoparzi live-streamed improvised live-coded music on their computers while the audience danced at home. We measured audience members' movement using our new MusicLab mobile application that uses smartphones' accelerometers and gyroscopes. We also asked questions about the experience of the concert.
 
 Learn more from the [webpage](https://www.uio.no/ritmo/english/news-and-events/events/musiclab/2020/musiclab-5---lockdown-rave/index.html).
-The video of the concert, panel discussion, and data jockeying can be viewed [here](https://youtu.be/hJ73IGYawuM).
+The video of the concert, panel discussion, and data jockeying can be viewed [here](https://youtu.be/hJ73IGYawuM). Raw data can be downloaded [here](https://www.uio.no/ritmo/english/news-and-events/events/musiclab/2020/lockdown-rave/data/).
 
 This repository contains the data jockeying notebook by Cagri Erdem and building on Cagri's work, Dana Swarbrick conducted the data analysis on the MusicLab IMU data for [RPPW2021](https://www.uio.no/ritmo/english/news-and-events/events/conferences/2021/RPPW/).
 
